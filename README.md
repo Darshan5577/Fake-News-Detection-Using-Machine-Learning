@@ -105,10 +105,3 @@ To get started with this project, follow these steps:
 Access the application in your web browser by navigating to `http://localhost:5000`.
 
 ---
-
-**Author**
-- ABHISHEK P P (https://github.com/abiek12)
-
-- If you have any questions or need further assistance, feel free to contact us at abhishekkanichery@gmail.com
-
----
